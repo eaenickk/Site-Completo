@@ -1,0 +1,172 @@
+body {
+    background-image: url('/index_arquivos/fundo.png');
+}
+h1.h1 {
+    
+    border-width: 6px;
+    border-color: white;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 60px;
+    text-align: center;
+    color: white
+    
+}
+p.p1 {
+  text-align: center;
+  font-style: Arial;
+  font-size: 19px;
+  margin: 0 100 25px 100;
+
+  color: white
+}
+
+.img{
+  display: flex;
+  justify-content: center;
+}
+
+img.img1 {
+  margin-bottom: 20px;
+  width:500;
+  height:400;
+}
+.alinhamento{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+}
+
+table.tab1,td.tab1,th.tab1
+  {
+    border:2px solid rgb(56, 0, 161);
+    text-align: center;
+    margin: 0 100 25px 100;
+  }
+p.p2 {
+  text-align: justify;
+  font-style: Arial;
+  font-size: 19px;
+  margin: 0 100 25px 100;
+
+  color: white
+}
+h3.h2 {
+    border-width: 4px;
+    text-align: center  ;
+    border-color: white;
+    font-style: Arial;
+    font-weight: 900;
+    font-size: 30px;
+    color: white
+}
+table.tab2,th.tab2,td.tab2
+{
+	border: 0px solid white;
+}
+img.img2 {
+    margin-bottom: 20px;
+    width:350;
+    height:350;
+  }
+p.p3{
+  text-align: justify;
+  font-style: Arial;
+  font-size: 19px;
+  margin: 0 100 25px 100;
+
+  color: white
+  }
+h3.h3{
+    border-width: 4px;
+    border-color: white;
+    text-align: center;
+    font-style: Arial;
+    font-weight: 900;
+    font-size: 30px;
+    color: white
+}
+table.tab3,th.tab3,td.tab3
+{
+	border:0px solid white;
+}
+img.img3 {
+    margin: 0 0 25px 10;
+    width:247;
+    height:298;
+  }
+p.p4{
+  text-align: justify;
+  font-style: Arial;
+  font-size: 19px;
+  margin: 0 100 25px 100;
+
+  color: white
+  }
+h3.h4{
+    border-width: 4px;
+    border-color: white;
+    text-align: center;
+    font-style: Arial;
+    font-weight: 900;
+    font-size: 30px;
+    color: white
+}
+p.p5{
+  text-align: justify;
+  font-style: Arial;
+  font-size: 19px;
+  margin: 0 100 25px 100;
+
+  color: white
+  }
+
+  
+img.img4 {
+    margin: 0 0 25px;
+    width:500;
+    height:300;
+  }
+p.p6{
+  text-align: justify;
+  font-style: Arial;
+  font-size: 19px;
+  margin: 0 100 25px 100;
+
+  color: white
+  }
+h3.h5{
+    text-align: center;
+    border-width: 4px;
+    border-color: white;
+    font-style: Arial;
+    font-weight: 900;
+    font-size: 30px;
+    color: white
+}
+p.p7{
+  text-align: justify;
+  font-style: Arial;
+  font-size: 19px;
+  margin: 0 100 25px 100;
+
+  color: white 
+  }
+h3.h6{
+    text-align: center;
+    border-width: 4px;
+    border-color: white;
+    font-style: Arial;
+    font-weight: 900;
+    font-size: 30px;
+    color: white
+}
+p.p8{
+    text-align: justify;
+    font-style: Arial;
+    font-size: 19px;
+    margin: 0 100 25px 100;
+
+    color: white
+  }
