@@ -12,23 +12,29 @@
 
 nav{
   background-color: black;
-  justify-content: space-between;
+  justify-content: space-around;
   align-items: center;
   width: 100%;
   height: 15vh;
-  padding: 2rem;
   display: flex;
   backdrop-filter: blur(25px);
   box-shadow: rgb(0, 0, 0, 0.1) 0px 2px px;
 
 
 }
-nav ul{ 
-  margin: 0 auto;
+
+.header{
+  width: 40%;
   display: flex;
   align-items: center;
   justify-content: center;
-  gap: 2rem;
+}
+
+nav ul{ 
+  width: 60%;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
   color: rgb(233, 230, 230);
 
 }
@@ -43,8 +49,9 @@ ul li{
 
 }
 nav ul li a{
-  text-decoration: none;
-  color: rgb(233, 230, 230);
+
+  color: rgb(0, 110, 255);
+  
   
 
 }
